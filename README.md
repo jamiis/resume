@@ -29,6 +29,10 @@ Sparrow Healthcare, iOS Dev Intern, Summer 2011
 - Sold the company in 2010 after acquiring over 8,000 subscribers  
 
 ## Projects
+[Movie Explorer](https://movieexplorer.me), find something to watch by spatially exploring similar movies
+- Flask backend talks to Rotten Tomatoes and YouTube APIs
+- Front-end utilizes D3.js and Knockout.js
+
 [Repommender](https://github.com/jamiis/repommender), a Github repository recommendation system, Fall 2014
 - Recommendation based on implicit collaborative filtering through Spark, pyspark, and MLlib
 - Wrote a Python script to extract user-to-repo stars from Github database
@@ -48,4 +52,4 @@ Extensive Experience: Haskell, OCaml, JavaScript, R, Objective-C, Ruby, C, C++, 
 Frameworks/Tools: Numpy, pyspark, Node, Express, Django, Flask, Scrapy, Scipy, South, PyTest, MongoDB, AngularJS, jQuery, Yeoman, Sinatra, Less CSS, Bootstrap, Postgres
 
 ## Interests
-I love riding my motorcycle, skateboarding, skiing, crosswords, and stand up comedy. Also, I brew a batch of beer on occasion.  
+I love riding my motorcycle, skateboarding, skiing, NYC history and architecture, crosswords, and stand up comedy. Also, I brew a batch of beer on occasion.  
