@@ -2,7 +2,7 @@
 [jamiis.me](http://jamiis.me) | [email](mailto:jamismanwaring@gmail.com) | [github](https://github.com/jamiis)
 
 ## Education
-M.S. Computer Science (Machine Learning focus), Graduate Spring 2015, GPA: 3.61
+M.S. Computer Science / Machine Learning, May 2015, GPA: 3.61
 Columbia University, New York, NY  
 
 B.S. Applied Mathematics, B.S. Computer Science, May 2012, GPA: 3.49  
