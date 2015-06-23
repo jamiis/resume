@@ -46,9 +46,9 @@ Undergrad Senior Competition, 1st Place of 25 Teams, Spring 2012
 - Integrated the library with Apple's A/V Foundation and designed and programmed the iPhone/iPad UX  
 
 ## Skills
-Strong: Python, Unix, Vim, Git  
+Strong: Python, Unix, Vim, Git, AWS
 Experienced: Haskell, OCaml, JavaScript, R, Objective-C, Ruby, C, C++, Java, Matlab
-Frameworks/Libs: Docker, Numpy, Spark/Pyspark, Node, Express, Django, Flask, Scrapy, Scipy, South, PyTest, MongoDB, InfluxDB, Postgres, AngularJS, Yeoman, Sinatra, LessCSS, Bootstrap
+Frameworks/Libs: Docker, Numpy, Spark/Pyspark, Torch7, Theano, Node, Django, Flask, Scrapy, PyTest, MongoDB, InfluxDB, Postgres, AngularJS, lots more
 
 ## Interests
 I love riding my motorcycle, skateboarding, skiing, NYC history and architecture, crosswords, and stand up comedy. Also, I brew a batch of beer on occasion.  
