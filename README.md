@@ -9,7 +9,7 @@ B.S. Applied Mathematics, B.S. Computer Science, May 2012, GPA: 3.49
 University of Utah, Salt Lake City, Utah
 
 ## Employment
-[Paperspace](http://paperspace.io), System Architect & Fullstack Engineer, Summer 2015 - Present
+[Paperspace](https://paperspace.io/), System Architect & Fullstack Engineer, Summer 2015 - Present
 - Deploying scalable metrics monitoring and visualization for all of our distributed services
 - Docker, [InfluxDB](https://influxdb.com/), [grafana](http://play.grafana.org/), [collectd](https://collectd.org/), StatsD, nginx
 
