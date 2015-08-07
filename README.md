@@ -9,17 +9,19 @@ B.S. Applied Mathematics, B.S. Computer Science, May 2012, GPA: 3.49
 University of Utah, Salt Lake City, Utah
 
 ## Employment
-[Paperspace](https://paperspace.io/), System Architect & Fullstack Engineer, Summer 2015 - Present
+[Paperspace](https://paperspace.io/), Fullstack Engineer, Contracted Summer 2015
 - Deploying scalable metrics monitoring and visualization for all of our distributed services
-- Docker, [InfluxDB](https://influxdb.com/), [grafana](http://play.grafana.org/), [collectd](https://collectd.org/), StatsD, nginx
+- Rewrote the backend and added an admin tool for navigating the REST API
+- JavaScript ([LoopBack](http://loopback.io/), Node, Express, [Mocha](http://mochajs.org/)) Docker, [InfluxDB](https://influxdb.com/), [Grafana](http://play.grafana.org/), [collectd](https://collectd.org/), [StatsD](https://github.com/etsy/statsd), nginx, AWS
 
 [HackNY](http://hackny.org/a/2014/07/hackny-2014-fellowship-demofest-and-class-announcement/), Summer Fellow / [Seen.co](http://seen.co/), Fullstack Web Engineer Intern, Summer 2014  
-- Created a crawler, ranking algorithm, and dashboard to intelligently manage new events
-- Python/scrapy, JavaScript, Ruby/Sinatra, CSS, MongoDB
+- Created a crawler, ranking algorithm, and admin dashboard to streamline adding events to the database
+- Python ([Scrapy](http://scrapy.org/)), JavaScript, Ruby ([Sinatra](http://www.sinatrarb.com/)), CSS, MongoDB
 
 [HireVue](http://hirevue.com/), Fullstack Web Engineer, Dec 2011 - July 2013  
 - Refactored poor backend Django code and built our RESTful API  
 - Completely rewrote our frontend in AngularJS
+- Python (Django), JavaScript (AngularJS, jQuery, Jasmine), CSS (Bootstrap, LessCSS)
 
 [Descue](http://descue.com/), iOS Engineer, Sept 2012 - Feb 2013  
 - Created an HIV/AIDS-detection prototype for an early-phase bioengineering startup  
