@@ -2,7 +2,7 @@
 [jamiis.me](http://jamiis.me) | [email](mailto:jamismanwaring@gmail.com) | [github](https://github.com/jamiis)
 
 ## Education
-M.S. Computer Science / Machine Learning, May 2015, GPA: 3.61
+M.S. Computer Science / Machine Learning, May 2015, GPA: 3.61  
 Columbia University, New York, NY  
 
 B.S. Applied Mathematics, B.S. Computer Science, May 2012, GPA: 3.49  
@@ -10,7 +10,7 @@ University of Utah, Salt Lake City, Utah
 
 ## Employment
 [Paperspace](https://paperspace.io/), Fullstack Engineer, Contracted Summer 2015
-- Deploying scalable metrics monitoring and visualization for all of our distributed services
+- Deployed scalable metrics monitoring and visualization for all of our distributed services
 - Rewrote the backend and added an admin tool for navigating the REST API
 - JavaScript ([LoopBack](http://loopback.io/), Node, Express, [Mocha](http://mochajs.org/)) Docker, [InfluxDB](https://influxdb.com/), [Grafana](http://play.grafana.org/), [collectd](https://collectd.org/), [StatsD](https://github.com/etsy/statsd), nginx, AWS
 
@@ -44,13 +44,15 @@ Sparrow Healthcare, iOS Dev Intern, Summer 2011
 - Implemented a compiler and language in OCaml and C++ for simulating quantum circuits
 
 Undergrad Senior Competition, 1st Place of 25 Teams, Spring 2012  
-- Wrote an iOS app to process photos and video through our custom image processing library written in C  
-- Integrated the library with Apple's A/V Foundation and designed and programmed the iPhone/iPad UX  
+­ Designed and programmed the iPhone and iPad app for scientific image and video processing
+­ Wrote the processing library in C from scratch and integrated Apple’s A/V foundation
 
 ## Skills
-Strong: Python, Unix, Vim, Git, AWS
-Experienced: Haskell, OCaml, JavaScript, R, Objective-C, Ruby, C, C++, Java, Matlab
-Frameworks/Libs: Docker, Numpy, Spark/Pyspark, Torch7, Theano, Node, Django, Flask, Scrapy, PyTest, MongoDB, InfluxDB, Postgres, AngularJS, lots more
+Strong: Python, JavaScript, Unix, Vim, Git, AWS, Docker  
+Machine Learning: Torch, Theano, scikit­learn, Spark, R, Caffe  
+Experienced: Haskell, OCaml, Objective-C, Ruby, C, C++, Java, Matlab  
+Frameworks/Libs: Numpy, Scipy, LoopBack, Express, Angular, Node, Django, Flask, Scrapy  
+Databases: Postgres, MongoDB, InfluxDB, MySQL
 
 ## Interests
 I love riding my motorcycle, skateboarding, skiing, NYC history and architecture, crosswords, and stand up comedy. Also, I brew a batch of beer on occasion.  
