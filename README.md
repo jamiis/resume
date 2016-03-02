@@ -9,6 +9,11 @@ B.S. Applied Mathematics, B.S. Computer Science, May 2012, GPA: 3.49
 University of Utah, Salt Lake City, Utah
 
 ## Employment
+[DBRS Innovation Lab](http://dbrslabs.com/), Data Scientist, Contracted Fall 2016 - Present
+- Ingested, cleaned, and analyzed large datasets in a distributed computing environment
+- Estimated financial risk through distributed Monte Carlo simulations
+- [Spark](http://spark.apache.org/), [Databrick cloud notebooks](https://databricks.com/product/databricks), [D3.js](https://d3js.org/), [NVD3](http://nvd3.org/)
+
 [Paperspace](https://paperspace.io/), Fullstack Engineer, Contracted Summer 2015  
 - Deployed scalable metrics monitoring and visualization for all of our distributed services  
 - Rewrote the backend and added an admin tool for navigating the REST API  
@@ -49,7 +54,7 @@ Undergrad Senior Competition, 1st Place of 25 Teams, Spring 2012
 
 ## Skills
 Strong: Python, JavaScript, Unix, Vim, Git, AWS, Docker  
-Machine Learning: Torch, Theano, scikit­learn, Spark, R, Caffe  
+Machine Learning: Torch, Theano, scikit­learn, Spark, R
 Experienced: Haskell, OCaml, Objective-C, Ruby, C, C++, Java, Matlab  
 Frameworks/Libs: Numpy, Scipy, LoopBack, Express, Angular, Node, Django, Flask, Scrapy  
 Databases: Postgres, MongoDB, InfluxDB, MySQL  
