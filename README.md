@@ -36,7 +36,7 @@ Sparrow Healthcare, iOS Dev Intern, Summer 2011
 - Engineered and designed suite of medical reference iOS apps  
 
 ## Projects
-[Movie Explorer](http://movieexplorer.me), find something to watch by spatially exploring similar movies  
+[Movie Explorer](http://movieexplorer.io), find something to watch by spatially exploring similar movies  
 - Flask backend talks to Rotten Tomatoes and YouTube APIs  
 - Frontend utilizes D3.js and Knockout.js  
 
