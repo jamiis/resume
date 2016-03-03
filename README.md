@@ -12,6 +12,7 @@ University of Utah, Salt Lake City, Utah
 [DBRS Innovation Lab](http://dbrslabs.com/), Data Scientist, Contracted Fall 2016 - Present
 - Ingested, cleaned, and analyzed large datasets in a distributed computing environment
 - Estimated financial risk through distributed Monte Carlo simulations
+- Trained a character-level recurrent neural network to [generate sheet music](https://medium.com/dbrs-innovation-labs/in-his-novel-galatea-2-2-e9d11c9b7c2a)
 - [Spark](http://spark.apache.org/), [Databrick cloud notebooks](https://databricks.com/product/databricks), [D3.js](https://d3js.org/), [NVD3](http://nvd3.org/)
 
 [Paperspace](https://paperspace.io/), Fullstack Engineer, Contracted Summer 2015  
