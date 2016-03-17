@@ -9,13 +9,13 @@ B.S. Applied Mathematics, B.S. Computer Science, May 2012, GPA: 3.49
 University of Utah, Salt Lake City, Utah
 
 ## Employment
-[DBRS Innovation Lab](http://dbrslabs.com/), Data Scientist, Contracted Fall 2016 - Present
-- Ingested, cleaned, and analyzed large datasets in a distributed computing environment
+[DBRS Innovation Lab](http://dbrslabs.com/), Data Scientist, Contracting as Korova LLC, Fall 2015 - Present
+- Built a WebGL-based document visualization tool based on doc2vec, t-SNE and k-means clustering
 - Estimated financial risk through distributed Monte Carlo simulations
 - Trained a character-level recurrent neural network to [generate sheet music](https://medium.com/dbrs-innovation-labs/in-his-novel-galatea-2-2-e9d11c9b7c2a)
-- [Spark](http://spark.apache.org/), [Databrick cloud notebooks](https://databricks.com/product/databricks), [D3.js](https://d3js.org/), [NVD3](http://nvd3.org/)
+- [Spark](http://spark.apache.org/), [Databricks cloud notebooks](https://databricks.com/product/databricks), [gensim](https://github.com/piskvorky/gensim), [D3.js](https://d3js.org/), [NVD3](http://nvd3.org/)
 
-[Paperspace](https://paperspace.io/), Fullstack Engineer, Contracted Summer 2015  
+[Paperspace](https://paperspace.io/), Fullstack Engineer, Contracted as Korova LLC, Summer 2015  
 - Deployed scalable metrics monitoring and visualization for all of our distributed services  
 - Rewrote the backend and added an admin tool for navigating the REST API  
 - JavaScript ([LoopBack](http://loopback.io/), Node, Express, [Mocha](http://mochajs.org/)) Docker, [InfluxDB](https://influxdb.com/), [Grafana](http://play.grafana.org/), [collectd](https://collectd.org/), [StatsD](https://github.com/etsy/statsd), nginx, AWS  
