@@ -9,11 +9,11 @@ B.S. Applied Mathematics, B.S. Computer Science, May 2012, GPA: 3.49
 University of Utah, Salt Lake City, Utah
 
 ## Employment
-[DBRS Innovation Lab](http://dbrslabs.com/), Data Scientist, Contracting as Korova LLC, Fall 2015 - Present
-- Built a WebGL-based document visualization tool based on doc2vec, t-SNE and k-means clustering
+[DBRS Innovation Labs](http://dbrslabs.com/), Data Scientist, Contracting as Korova LLC, Fall 2015 - Present
+- Built a document recommendation engine platform and qualitative algorithm inspection tool based on [doc2vec](https://arxiv.org/abs/1405.4053), [t-SNE](https://lvdmaaten.github.io/tsne/) and k-means clustering
 - Estimated financial risk through distributed Monte Carlo simulations
 - Trained a character-level recurrent neural network to [generate sheet music](https://medium.com/dbrs-innovation-labs/in-his-novel-galatea-2-2-e9d11c9b7c2a)
-- [Spark](http://spark.apache.org/), [Databricks cloud notebooks](https://databricks.com/product/databricks), [gensim](https://github.com/piskvorky/gensim), [D3.js](https://d3js.org/), [NVD3](http://nvd3.org/)
+- [gensim](https://github.com/piskvorky/gensim), [Spark](http://spark.apache.org/), [Databricks cloud notebooks](https://databricks.com/product/databricks), [D3.js](https://d3js.org/), [NVD3](http://nvd3.org/)
 
 [Paperspace](https://paperspace.io/), Fullstack Engineer, Contracted as Korova LLC, Summer 2015  
 - Deployed scalable metrics monitoring and visualization for all of our distributed services  
@@ -37,6 +37,10 @@ Sparrow Healthcare, iOS Dev Intern, Summer 2011
 - Engineered and designed suite of medical reference iOS apps  
 
 ## Projects
+[Tessellize](http://devpost.com/software/tessellize), Emulate artistic style in real time using convolutional neural network image transformers
+- Grand Prize winner of the [Artificial Intelligence Hackathon](http://aihacks.devpost.com/submissions) out of 27 teams
+- [Texture Networks](http://arxiv.org/abs/1603.03417), [Perceptual Losses for Real-Time Style Transfer & Super Resolution](https://arxiv.org/abs/1603.08155), CUDA, [Torch](http://torch.ch/), [Chainer](http://chainer.org/)
+
 [Movie Explorer](http://movieexplorer.io), find something to watch by spatially exploring similar movies  
 - Flask backend talks to Rotten Tomatoes and YouTube APIs  
 - Frontend utilizes D3.js and Knockout.js  
@@ -55,10 +59,10 @@ Undergrad Senior Competition, 1st Place of 25 Teams, Spring 2012
 
 ## Skills
 Strong: Python, JavaScript, Unix, Vim, Git, AWS, Docker  
-Machine Learning: Torch, Theano, scikit­learn, Spark, R
+Machine Learning: TensorFlow, Torch, Theano, scikit­learn, Spark, R
 Experienced: Haskell, OCaml, Objective-C, Ruby, C, C++, Java, Matlab  
 Frameworks/Libs: Numpy, Scipy, LoopBack, Express, Angular, Node, Django, Flask, Scrapy  
 Databases: Postgres, MongoDB, InfluxDB, MySQL  
 
 ## Interests
-I love riding my motorcycle, skateboarding, skiing, NYC history and architecture, crosswords, and stand up comedy. Also, I brew a batch of beer on occasion.  
+I love my motorcycle, skateboarding, NYC history and architecture, crosswords, cryptocurrencies, economics, and stand up comedy. Also, I brew a batch of beer on occasion.
