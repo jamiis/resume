@@ -14,13 +14,13 @@ University of Utah, Salt Lake City, Utah
 - Built and oversaw entire ML pipeline including developing a methodology for acquiring training data and deploying models to prod
 - [Tensorflow](https://www.tensorflow.org/), [Tensorflow Serving](https://www.tensorflow.org/serving/), [pandas](https://pandas.pydata.org/), [scikit-learn](http://scikit-learn.org/)
 
-[DBRS Innovation Labs](http://dbrslabs.com/), Data Scientist, Contracting as Korova LLC, Fall 2015 - Fall 2016
+[DBRS Innovation Labs](http://dbrslabs.com/), Machine Learning Programmer, Contracting as Korova LLC, Fall 2015 - Fall 2016
 - Built a document recommendation engine platform and qualitative algorithm inspection tool based on [doc2vec](https://arxiv.org/abs/1405.4053), [t-SNE](https://lvdmaaten.github.io/tsne/) and k-means clustering
 - Trained a character-level recurrent neural network to [generate sheet music](https://medium.com/dbrs-innovation-labs/in-his-novel-galatea-2-2-e9d11c9b7c2a)
 - [gensim](https://github.com/piskvorky/gensim), [Spark](http://spark.apache.org/), [Databricks cloud notebooks](https://databricks.com/product/databricks), [D3.js](https://d3js.org/), [NVD3](http://nvd3.org/)
 
 [Paperspace](https://paperspace.io/), Fullstack Engineer, Contracted as Korova LLC, Summer 2015  
-- Deployed scalable metrics monitoring and visualization for all of our distributed services  
+- Deployed scalable metrics monitoring and visualization for all of the distributed services  
 - Rewrote the backend and added an admin tool for navigating the REST API  
 - JavaScript ([LoopBack](http://loopback.io/), Node, Express, [Mocha](http://mochajs.org/)) Docker, [InfluxDB](https://influxdb.com/), [Grafana](http://play.grafana.org/), [collectd](https://collectd.org/), [StatsD](https://github.com/etsy/statsd), nginx, AWS  
 
@@ -63,7 +63,7 @@ Undergrad Senior Competition, 1st Place of 25 Teams, Spring 2012
 
 ## Skills
 Strong: Python, JavaScript, Unix, Vim, Git, AWS, Docker  
-Machine Learning: TensorFlow, Torch, Theano, scikit­learn, Spark, R
+Machine Learning: TensorFlow, Keras, Chainer, Theano, scikit-learn, Spark, Torch, R
 Experienced: Haskell, OCaml, Objective-C, Ruby, C, C++, Java, Matlab  
 Frameworks/Libs: Numpy, Scipy, LoopBack, Express, Angular, Node, Django, Flask, Scrapy  
 Databases: Postgres, MongoDB, InfluxDB, MySQL  
