@@ -9,9 +9,13 @@ B.S. Applied Mathematics, B.S. Computer Science, May 2012, GPA: 3.49
 University of Utah, Salt Lake City, Utah
 
 ## Employment
-[DBRS Innovation Labs](http://dbrslabs.com/), Data Scientist, Contracting as Korova LLC, Fall 2015 - Present
+[Wavelet Health](https://wavelethealth.com/), Machine Learning Programmer, Fall 2016 - Winter 2017
+- Deep learning based exercise classification of temporal wearable sensor data using LSTM recurrent neural networks
+- Built and oversaw entire ML pipeline including developing a methodology for acquiring training data and deploying models to prod
+- [Tensorflow](https://www.tensorflow.org/), [Tensorflow Serving](https://www.tensorflow.org/serving/), [pandas](https://pandas.pydata.org/), [scikit-learn](http://scikit-learn.org/)
+
+[DBRS Innovation Labs](http://dbrslabs.com/), Data Scientist, Contracting as Korova LLC, Fall 2015 - Fall 2016
 - Built a document recommendation engine platform and qualitative algorithm inspection tool based on [doc2vec](https://arxiv.org/abs/1405.4053), [t-SNE](https://lvdmaaten.github.io/tsne/) and k-means clustering
-- Estimated financial risk through distributed Monte Carlo simulations
 - Trained a character-level recurrent neural network to [generate sheet music](https://medium.com/dbrs-innovation-labs/in-his-novel-galatea-2-2-e9d11c9b7c2a)
 - [gensim](https://github.com/piskvorky/gensim), [Spark](http://spark.apache.org/), [Databricks cloud notebooks](https://databricks.com/product/databricks), [D3.js](https://d3js.org/), [NVD3](http://nvd3.org/)
 
