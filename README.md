@@ -9,7 +9,7 @@ B.S. Applied Mathematics, B.S. Computer Science, May 2012, GPA: 3.49
 University of Utah, Salt Lake City, Utah
 
 ## Employment
-[Wavelet Health](https://wavelethealth.com/), Machine Learning Programmer, Fall 2016 - Winter 2017
+[Wavelet Health](https://wavelethealth.com/), Machine Learning Programmer, Fall 2016 - Winter 2018
 - Deep learning based exercise classification of temporal wearable sensor data using LSTM recurrent neural networks
 - Built and oversaw entire ML pipeline including developing a methodology for acquiring training data and deploying models to prod
 - [Tensorflow](https://www.tensorflow.org/), [Tensorflow Serving](https://www.tensorflow.org/serving/), [pandas](https://pandas.pydata.org/), [scikit-learn](http://scikit-learn.org/)
